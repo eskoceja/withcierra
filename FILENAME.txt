@@ -6,4 +6,5 @@ Adding a command information
 git status 
 shows you the status
 
-
+Git checkout -b "branchname"
+This command creates a new branch and moves you over to that branch
