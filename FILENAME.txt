@@ -1,0 +1,3 @@
+Git pull 
+pulling is when you pull from hub
+
