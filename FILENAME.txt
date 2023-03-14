@@ -1,3 +1,4 @@
 Git pull 
 pulling is when you pull from hub
-
+Git add
+Adding a command information
